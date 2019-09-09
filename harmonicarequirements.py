@@ -1,7 +1,3 @@
-
-
-
-
 """#Experiments"""
 
 # Download the raw data (only 108 epoch data points, for full dataset,
